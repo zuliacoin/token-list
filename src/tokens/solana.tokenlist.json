@@ -14833,8 +14833,22 @@
 		],
 		"extensions": {
 			"website": "https://wattton.org"
-	  }
+	  }    
   },
+  {
+      "chainId": 101,
+      "dirección": "CYyuEbVBc8mdZesFB2vjkAoi3NJAwLxQ7zytEbSgqkih",
+      "símbolo": "DZL",
+      "nombre": "DZULIA",
+      "decimales": 9,
+      "logoURI": "https://zuliacoin.com/wp-content/uploads/2021/09/zuliacoin.png",
+      "etiquetas": ["stablecoin"],
+      "extensiones": {
+        "sitio web": "https://zuliacoin.com",
+        "twitter": "https://twitter.com/zuliacoin",
+        "telegrama": "https://t.me/zuliacoin"
+      }
+    },    
   {
       "chainId": 101,
       "dirección": "HqxyA7nVgtcoXhTrEcaWxzH2xuNeNDsie8nA8Unp1pZ2",
